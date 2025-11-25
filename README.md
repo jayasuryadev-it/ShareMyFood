@@ -35,12 +35,15 @@ Built as a beginner-friendly full-stack project.
 frontend/index.html
 
 👉 Backend (Node.js)
+
 cd backend
+
 npm install
+
 node server.js
-# Now visit http://localhost:3000
 
 🙋 Author
 
 Jaya Surya J
+
 Aspiring Developer | HTML • CSS • JavaScript • Python (Learning)
