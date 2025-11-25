@@ -31,7 +31,9 @@ Built as a beginner-friendly full-stack project.
 ---
 
 🔧 How to Run Locally
+
 👉 Frontend Only
+
 frontend/index.html
 
 👉 Backend (Node.js)
